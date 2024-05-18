@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Hobbit",
+    "category": "Fantasy",
+    "date": "1937",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "name": "The Great Gatsby",
+    "category": "Fiction",
+    "date": "1925",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "name": "IT",
+    "category": "Horror",
+    "date": "1986",
+    "author": "Stephen King"
+  }
+]
